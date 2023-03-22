@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://terabox.com/s/1DeRs0NGOi1PyCHUuigLaJA",
+        "UpdateSourceArgs": "",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "mythofempires",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": true,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": false,
+        "OneShot": false
+    }
+]
